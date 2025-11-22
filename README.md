@@ -6,7 +6,7 @@
 
 <h1 align="center">Strix</h1>
 
-<h2 align="center">Open-source AI Hackers to secure your Apps</h2>
+<h2 align="center">Open-source AI hackers to secure your Apps,</h2>
 
 <div align="center">
 
